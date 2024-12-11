@@ -1,0 +1,24 @@
+website => web page တေ စုထားတဲ့ကောင်
+web page => ကို Html , Css နဲ့ ‌ေရးတယ်
+Html = Hyper Text Markup Language
+Css = Cascading Style Sheets
+
+Html = web page တေ ကို Structure ချဖို့သုံး
+Css = web page တေ ကို အလှဆင်ဖို့သုံး
+
+Basic Syntax
+
+<html>
+<head>
+    title / link တေ အတွက်သုံးတယ်
+</head>
+<body>
+    web page မာပေါ်ချင်တဲ့ အကြောင်းရာတေ အတွက်သုံး
+</body>
+</html>
+
+Element
+<open tag> </close tag> ရှိတဲ့ ကောင်တေကို Elenent လို့ခေါ်
+
+Content  == Elenent
+
