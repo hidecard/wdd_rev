@@ -79,3 +79,16 @@ Html မာ Css ချိတ်သုံးနည်း 3 မျိူးရှ�
     Eg . <link rel="stylesheet" href="style.css">
 
 *href နောက်က name က ကိုယ်ဆောက်ထားတဲ့ Css file ရဲ့ name ကို သုံးတယ်
+
+CSS Selector
+1.Element Selector
+2.Class Selector  .
+3.Id Selector #
+4.Universal Selector
+5.Group Selector
+
+1.Element Selector
+Element name ကို တိုက်ရိုက်သုံးတာကို Element Selector လို့ခေါ်တယ်
+
+eg . p{color:red}
+
