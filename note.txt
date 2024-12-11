@@ -22,3 +22,21 @@ Element
 
 Content  == Elenent
 
+heading = h   < h1 to h6 > 
+paragraph = p <p> </p>
+
+Type of Element
+1.Block Level Element
+2.Inline Element
+
+1.Block Level Element
+သူနေရာ သူ နေရာ အပြည့်ယူတာ
+
+2.Inline Element
+သူနေရာ သူ နေရာ ပဲ ယူတာ
+
+
+Day 2
+
+Attribute
+open  tag ထဲမှာ ရှိတဲ့ ="   " ပါတဲ့ ကောင်တေကို Attribute လို့ခေါ်တယ်
