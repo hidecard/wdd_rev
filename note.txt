@@ -40,3 +40,42 @@ Day 2
 
 Attribute
 open  tag ထဲမှာ ရှိတဲ့ ="   " ပါတဲ့ ကောင်တေကို Attribute လို့ခေါ်တယ်
+
+eg .    <a a="" b="" c=""> </a>
+
+Html မာ Css စသုံးရင် style attribute ကို သုံးတယ်
+
+eg . <p style="color:red"> </p>
+
+properties : value
+
+Html မာ Css ချိတ်သုံးနည်း 3 မျိူးရှိတယ်
+1.Inline Css
+2.Internal Css
+3.External Css
+
+
+1.Inline Css
+    html Elenent ထဲမှာ style attribute ကို ခေါ်သုံးတာကို Inline Css လို့ခေါ်တယ်
+    
+    Eg . <p style="color:red"> </p>
+
+2.Internal Css
+    Internal Css ကိုသုံးရင် Style Elenent  ကို ခေါ်သုံးရတယ်
+    head အပိတ်နဲ့ body အဖွင့်ကြားမာ  <style> </style> ကို သုံးတယ်
+
+    Eg . 
+    
+    <style>
+    p{  
+        color:red;
+
+    }
+    </style>
+
+3.External Css
+    External Css ကိုသုံးရင် Css file ဆောက်ပီး သူ့ကို html file ကနေ ခေါ်သုံးရတယ်
+
+    Eg . <link rel="stylesheet" href="style.css">
+
+*href နောက်က name က ကိုယ်ဆောက်ထားတဲ့ Css file ရဲ့ name ကို သုံးတယ်
