@@ -64,10 +64,10 @@ Html မာ Css ချိတ်သုံးနည်း 3 မျိူးရှ�
     Internal Css ကိုသုံးရင် Style Elenent  ကို ခေါ်သုံးရတယ်
     head အပိတ်နဲ့ body အဖွင့်ကြားမာ  <style> </style> ကို သုံးတယ်
 
-    Eg . 
-    
+    Eg .
+
     <style>
-    p{  
+    p{
         color:red;
 
     }
