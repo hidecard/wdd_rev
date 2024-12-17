@@ -119,3 +119,7 @@ html file ထဲ မာ ရှိတဲ့  element အကုန်လုံး�
 eg . *{color:red}
 
 5.Group Selector
+
+မတူညီတဲ့ element တွေကို တူညီတဲ့ style တွေပေးရင်လို့သုံးတယ်
+ခေါ်သုံးရင် , ကိုသုံးတယ်
+element တေ အပြင် class name တေ , id name တေ အကုန်လုံးကို  သုံးလို့ရတယ်
