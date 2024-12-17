@@ -39,7 +39,7 @@ Type of Element
 Day 2
 
 Attribute
-open  tag ထဲမှာ ရှိတဲ့ ="   " ပါတဲ့ ကောင်တေကို Attribute လို့ခေါ်တယ်
+open  tag ထဲမှာ ရှိတဲ့ =" " ပါတဲ့ ကောင်တေကို Attribute လို့ခေါ်တယ်
 
 eg .    <a a="" b="" c=""> </a>
 
