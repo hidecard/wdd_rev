@@ -82,8 +82,8 @@ Html မာ Css ချိတ်သုံးနည်း 3 မျိူးရှ�
 
 CSS Selector
 1.Element Selector
-2.Class Selector  .
-3.Id Selector #
+2.Class Selector
+3.Id Selector
 4.Universal Selector
 5.Group Selector
 
@@ -92,3 +92,30 @@ Element name ကို တိုက်ရိုက်သုံးတာကို
 
 eg . p{color:red}
 
+2.Clss Selector
+class name ကို တိုက်ရိုက်သုံးတာကို Class Selector လို့ခေါ်တယ်
+class name ကို သုံးတဲ့အခါ . ကိုသုံးတယ်
+နာမည်ပေးရင် class attribute ကို သုံးတယ်
+attribute ဖြစ်လို့ open tag ထဲမှာ ‌‌ေရးတယ်
+
+eg . <p class="mgmg"> </p>
+
+.mgmg{color:red}
+
+
+3.Id Selector
+id name ကို တိုက်ရိုက်သုံးတာကို Id Selector လို့ခေါ်တယ်
+id name ကို သုံးတဲ့အခါ # ကိုသုံးတယ်
+နာမည်ပေးရင် id attribute ကို သုံးတယ်
+attribute ဖြစ်လို့ open tag ထဲမှာ ‌‌ေရးတယ်
+eg . <p id="mgmg"> </p>
+
+#mgmg{color:red}
+
+4.Universal Selector
+html file ထဲ မာ ရှိတဲ့  element အကုန်လုံးနဲ့ သက်ဆိုင်တယ်
+ခေါ်သုံးရင် * ကိုသုံးတယ်
+
+eg . *{color:red}
+
+5.Group Selector
